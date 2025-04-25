@@ -19,7 +19,7 @@
 
 - Un apasionado desarrollador Back-end autodidacta
 - Playing COD & FS25
-- Actualmente estoy aprendiendo desarrollo back por mi cuenta.
+- Actualmente estoy aprendiendo desarrollo BackEnd por mi cuenta.
 - Actualmente estoy abierto a entrevistas y nuevas oportunidad laborales, este es [mi currículum.](https://drive.google.com/file/d/1YS2ofQ0nduAZDMRvN0sCK5KR4CLIA4lZ/view?usp=sharing)
 
 <br><br>
