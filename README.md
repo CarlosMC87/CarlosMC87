@@ -2,14 +2,12 @@
 <h1 align="center"><b>HolaSoyCarlosMerinaCirera</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Carlos+Merina+Cirera..🧑‍💻,;Desarrollador+Java..☕,;Desarrollador+Android..👾,;Desarrollador+Unity+CSharp..🎮,;En+continua+formación..🧠,;Buscando+nuevas+oportunidades..🔙+🔚"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Carlos+Merina+Cirera..🧑‍💻🧑‍💻🧑‍💻,;Desarrollador+Java..☕☕☕,;Desarrollador+ERP/CRM..🧩📦🧾,;Desarrollador+Unity+CSharp..🎮🎮🎮,;En+continua+formación..🧠🧠🧠,;Buscando+nuevas+oportunidades..🔙+🔚"></a>
 </p>
 
 <br>
 	
 <h2><img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl1aTF5a255MTZ0bmQ0eDZwbG93bG1pbjRqdHNqOWtmbWdzaTFqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IbgaMPs8P7Y4hQe6yh/giphy.gif" width = 50px><b> About me</b></h2>
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
